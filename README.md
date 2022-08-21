@@ -4,7 +4,7 @@
 This is my first IOS project and Swift program created on Xcode. It has four buttons that allow users to change text, background color, type text, and say goodbye.
 
 ### App Walk-though
-<img src= "https://github.com/TaoLyn838/codepath-prework/blob/main/prework/App%20Walk-though.gif" width="400" height="400"> <br>
+<img src= "https://github.com/TaoLyn838/codepath-prework/blob/main/prework/App%20Walk-though.gif" width="400" height="800"> <br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {HelloApple}!
