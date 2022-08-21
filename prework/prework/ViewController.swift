@@ -43,6 +43,7 @@ class ViewController: UIViewController {
         } else {
             TextLabel.text = FixedLabel.text
         }
+        FixedLabel.text = ""
     }
 }
 
