@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     @IBOutlet var MainView: UIView!
     @IBOutlet weak var FixedLabel: UITextField!
-    let DefaultText = "Hello Apple!"
+    let DefaultText = "Hello from Chengtao!"
     @IBOutlet weak var TextLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()

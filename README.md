@@ -1,15 +1,13 @@
-##  HelloApple
+##  HelloFromChengtao
 
 ### App Description
 This is my first IOS project and Swift program created on Xcode. It has four buttons that allow users to change text, background color, type text, and say goodbye.
 
 ### App Walk-though
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<http://g.recordit.co/taLeclZwYk.gif><br>
+<img src= "https://github.com/TaoLyn838/codepath-prework/blob/main/prework/App%20Walk-though.gif" width="400" height="800"> <br>
 
 ### Required User Stories
-- [x] 1. User sees custom text in a label - Hello from {HelloApple}!
+- [x] 1. User sees custom text in a label - Hello from Chengtao!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
