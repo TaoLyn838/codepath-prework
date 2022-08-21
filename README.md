@@ -6,7 +6,7 @@ This is my first IOS project and Swift program created on Xcode. It has four but
 ### App Walk-though
 TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<http://g.recordit.co/taLeclZwYk.gif><br>
+<img src= "https://github.com/TaoLyn838/codepath-prework/blob/main/prework/App%20Walk-though.gif"> <br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {HelloApple}!
