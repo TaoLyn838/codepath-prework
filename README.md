@@ -8,8 +8,6 @@ TODO:// Add the URL to your animated app walk-though gif in the image tag below.
 
 <http://g.recordit.co/taLeclZwYk.gif><br>
 
-TODO:// In the User stories section below, add an x between the -[ ] like this - [x] for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {HelloApple}!
 - [x] 2. User see's custom background color.
