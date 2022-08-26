@@ -45,5 +45,13 @@ class ViewController: UIViewController {
         }
         FixedLabel.text = ""
     }
+    
+    // User can tap on the background view to reset all views to default settings.
+    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        TextLabel.textColor = UIColor.black
+        TextLabel.text = DefaultText
+        MainView.backgroundColor = UIColor.systemTeal
+        colorIndex = 0
+    }
 }
 
